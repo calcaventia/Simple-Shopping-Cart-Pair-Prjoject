@@ -11,7 +11,7 @@ priceSClick.addEventListener("click", priceSilver);
 function priceBlack(event) {
   // Update price input with black color price
   let priceBClickResult = document.querySelector(".price-input");
-  priceBClickResult.innerHTML = "R699";
+  priceBClickResult.innerHTML = "699";
 }
 
 // Add event listener to black color button
