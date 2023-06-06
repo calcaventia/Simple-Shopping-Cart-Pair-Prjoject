@@ -1,7 +1,7 @@
 function priceSilver(event) {
   // Update price input with silver color price
   let priceSClickResult = document.querySelector(".price-input");
-  priceSClickResult.innerHTML = "R699";
+  priceSClickResult.innerHTML = "699";
 }
 
 // Add event listener to silver color button
